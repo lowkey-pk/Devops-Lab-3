@@ -1,0 +1,1 @@
+print("Tomato is good for health")
